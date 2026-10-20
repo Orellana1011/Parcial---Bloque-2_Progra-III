@@ -1,0 +1,13 @@
+ID_Producto,Nombre_Producto,Sucursal,Stock,Precio_Unitario,Categoria
+1,Laptop HP Pavilion,San Salvador,45,650.00,Tecnología
+2,Smart TV 55",San Salvador,20,450.00,Electrodomésticos
+3,Refrigeradora 2 Puertas,Santa Ana,15,580.00,Línea Blanca
+4,Mouse Inalámbrico,San Miguel,120,15.50,Tecnología
+5,Teclado Mecánico RGB,San Miguel,85,45.00,Tecnología
+6,Licuadora Oster,La Libertad,35,35.00,Línea Blanca
+7,Smartphone Galaxy A54,Sonsonate,50,320.00,Tecnología
+8,Impresora EcoTank,San Salvador,25,230.00,Tecnología
+9,Microondas LG,Santa Ana,30,120.00,Línea Blanca
+10,Aire Acondicionado 12BTU,San Miguel,10,410.00,Línea Blanca
+11,Monitor Gamer 24",La Libertad,40,180.00,Tecnología
+12,Silla Ergonómica,Sonsonate,22,150.00,Mobiliarios
